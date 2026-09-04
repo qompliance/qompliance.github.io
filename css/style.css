@@ -97,6 +97,7 @@ body {
 }
 
 .cta-link:hover {
+    color: #C2322D;
     opacity: 0.75;
 }
 
