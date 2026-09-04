@@ -91,7 +91,6 @@ body {
 .cta-link {
     font-size: clamp(1.8rem, 3.5vw, 2.75rem);
     font-weight: 700;
-    color: #C2322D;
     text-decoration: none;
     transition: opacity 0.2s;
 }
