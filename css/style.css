@@ -91,8 +91,8 @@ body {
 .cta-link {
     font-size: clamp(1.8rem, 3.5vw, 2.75rem);
     font-weight: 700;
-    text-decoration: none;
-    transition: opacity 0.2s;
+    color: #4a4a4a;
+    transition: color 0.2s, opacity 0.2s;
 }
 
 .cta-link:hover {
